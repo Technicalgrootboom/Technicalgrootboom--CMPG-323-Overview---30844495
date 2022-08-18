@@ -31,3 +31,4 @@
 
     Diagram explaining project and repository context and how they are integrated
     
+![Diagram](https://user-images.githubusercontent.com/91704415/185405074-0908d070-b2ad-45c6-a579-f63c0897b38d.PNG)
