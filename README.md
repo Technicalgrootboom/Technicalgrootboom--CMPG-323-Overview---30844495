@@ -31,4 +31,21 @@
 
     Diagram explaining project and repository context and how they are integrated
     
+    
 ![Diagram](https://user-images.githubusercontent.com/91704415/185405074-0908d070-b2ad-45c6-a579-f63c0897b38d.PNG)
+
+
+# - Branching Strategy
+
+        - What is the branching strategy?
+        A software which any development team can  use to interact with a version control system
+        for writing and managing code. 
+        
+        - This focuses on how branches are used in the development process.
+        
+- Types of branching strategies:
+
+        - Release branching
+        - Task branching
+        - Feature branching
+        - Abstaction branching
