@@ -49,3 +49,10 @@
         - Task branching
         - Feature branching
         - Abstaction branching
+        
+# - Charts
+
+
+           - Burndown Chart
+           ![Burndown Chart](https://user-images.githubusercontent.com/91704415/187914864-73ba8c1b-3670-4e81-ab70-48ca31ef4e2b.PNG)
+
