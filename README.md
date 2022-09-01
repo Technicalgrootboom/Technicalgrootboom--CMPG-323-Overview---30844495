@@ -50,6 +50,21 @@
         - Feature branching
         - Abstaction branching
         
+- Branching Strategies in Git:
+
+        - Gitflow
+        - Github Flow
+        - GitLab Flow
+        - Trunk-based development
+        
+- The purpose of branching strategies:
+
+        This is used in software management and version conrol so to maintain the changes made on the code. 
+        This caters for bug fixes, adding capabilities and itegrating new versions.
+        
+- Branching strategy used:
+
+        # Git Flow : Well known strategy that uses the multi-branch appraoch which consists of two throughout the development cycle
 # - Charts
 
 
