@@ -55,7 +55,8 @@
 
            - Burndown Chart
            
-          ![Burndown Chart](https://user-images.githubusercontent.com/91704415/187916092-f213d752-2af0-434a-8c43-6a6cabf2f02f.PNG)
+          
+![Burndown Chart](https://user-images.githubusercontent.com/91704415/187916356-3f7a6a27-ceed-4947-9995-e4eeaddae73f.jpeg)
 
 
 
