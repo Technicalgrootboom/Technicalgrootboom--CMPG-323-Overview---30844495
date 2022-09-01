@@ -65,6 +65,8 @@
 - Branching strategy used:
 
         # Git Flow : Well known strategy that uses the multi-branch appraoch which consists of two throughout the development cycle
+        
+        
 # - Charts
 
 
@@ -79,17 +81,23 @@
 ![Burndown Chart](https://user-images.githubusercontent.com/91704415/187916356-3f7a6a27-ceed-4947-9995-e4eeaddae73f.jpeg)
 
 
-           - Label Chart: This shows the relationship between between both axes of the chart
+           - Label Chart: 
+           
+           This shows the relationship between between both axes of the chart
 
 ![Label Chart](https://user-images.githubusercontent.com/91704415/187916897-34ee6532-7102-4995-b067-28dcdd48a59c.jpeg)
 
 
-           - Sprint: This is a comparison showing how much work is done during a sprint together with the amount of work remaining.
+           - Sprint: 
+           
+           This is a comparison showing how much work is done during a sprint together with the amount of work remaining.
  
 ![Sprint Chart](https://user-images.githubusercontent.com/91704415/187917183-472f43d9-23d6-4e85-97be-05c76960d349.jpeg)
 
 
-           - Status Chart: This shows a summary of task status and alert status
+           - Status Chart: 
+           
+           This shows a summary of task status and alert status
            
 ![Status Chart](https://user-images.githubusercontent.com/91704415/187917578-c6c022d6-0ce4-46f6-a4fd-ad8852b6bf42.jpeg)
 
