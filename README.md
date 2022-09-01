@@ -59,6 +59,19 @@
 ![Burndown Chart](https://user-images.githubusercontent.com/91704415/187916356-3f7a6a27-ceed-4947-9995-e4eeaddae73f.jpeg)
 
 
+           - Label Chart
+
+![Label Chart](https://user-images.githubusercontent.com/91704415/187916897-34ee6532-7102-4995-b067-28dcdd48a59c.jpeg)
+
+
+           - Sprint
+ 
+![Sprint Chart](https://user-images.githubusercontent.com/91704415/187917183-472f43d9-23d6-4e85-97be-05c76960d349.jpeg)
+
+
+           - Status Chart
+           
+![Status Chart](https://user-images.githubusercontent.com/91704415/187917578-c6c022d6-0ce4-46f6-a4fd-ad8852b6bf42.jpeg)
 
 
 
